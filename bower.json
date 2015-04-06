@@ -1,0 +1,12 @@
+{
+  "name": "baseline-modernizr",
+  "main": "baseline-modernizr.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/d-i/baseline-modernizr",
+  "authors": [
+    "Brad Dielman <bdielman@gmail.com>"
+  ],
+  "description": "Feature detection for flexbox",
+  "license": "MIT",
+  "private": true
+}
